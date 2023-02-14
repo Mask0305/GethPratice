@@ -2,6 +2,7 @@
 
 ## 實踐功能
 ### 部署一ERC20合約於Goerli測試網
+Contract Address : [0xA65f533dDcc437F942b0e360C12c0617B2732dFF](https://goerli.etherscan.io/address/0xa65f533ddcc437f942b0e360c12c0617b2732dff)
 ### 透過Golang操作Smart contract
   ```
   go run main.go server
